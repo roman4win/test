@@ -1,5 +1,6 @@
 from cmath import isfinite
 import unittest
+import time
 
 class TestSimpleMath(unittest.TestCase):
 
@@ -13,3 +14,4 @@ class TestSimpleMath(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
